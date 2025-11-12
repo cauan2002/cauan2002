@@ -1,9 +1,9 @@
 ## Jardeson Cauã 
 **`Desenvolvedor Backend`**
 
-- 🔭 atualmente estudo e pratico com Java e SpringBoot
-- 🌱 Aprendendo microservice
-- 👯 Cursando Analise e desenvolvimento de sistemas
+- 🔭 atualmente estudo e pratico Python e suas tecnologias, sei um pouquinho Java e SpringBoot tambem.
+- 🌱 Aprendendo Python,MySQL, Flask
+- 👯 Cursando Ciencia da computação
 
   
  ### 🤖 Linguagens e Tecnologias
